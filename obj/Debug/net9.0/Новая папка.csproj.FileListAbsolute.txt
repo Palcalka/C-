@@ -1,0 +1,14 @@
+C:\Users\Owner\Desktop\Новая папка\bin\Debug\net9.0\Новая папка.exe
+C:\Users\Owner\Desktop\Новая папка\bin\Debug\net9.0\Новая папка.deps.json
+C:\Users\Owner\Desktop\Новая папка\bin\Debug\net9.0\Новая папка.runtimeconfig.json
+C:\Users\Owner\Desktop\Новая папка\bin\Debug\net9.0\Новая папка.dll
+C:\Users\Owner\Desktop\Новая папка\bin\Debug\net9.0\Новая папка.pdb
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.dll
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\refint\Новая папка.dll
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.pdb
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\Новая папка.genruntimeconfig.cache
+C:\Users\Owner\Desktop\Новая папка\obj\Debug\net9.0\ref\Новая папка.dll
